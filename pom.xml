@@ -37,7 +37,7 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <name>Mithun Technologies Releases Neexus Repository</name>
 	      <url>http://46.101.82.226:8081/repository/Sat-releases/</url>
 	    </repository>
 	    <snapshotRepository>
